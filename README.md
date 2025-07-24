@@ -2,6 +2,15 @@
 
 Este projeto é um blog pessoal que consome a API pública do GitHub para exibir informações do usuário e seus repositórios como publicações. Ele foi desenvolvido com React, utilizando boas práticas de organização, componentização, contextos e estilização moderna.
 
+![image 1](./images/github1.png)
+<hr>
+
+![image 2](./images/github2.png)
+<hr>
+
+![image 3](./images/github3.png)
+<hr>
+
 ## ✨ Tecnologias Utilizadas
 
 - **React 18** – Biblioteca principal para construção da interface.
